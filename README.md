@@ -113,7 +113,7 @@ GenAI-powered sales intelligence platform automating EDA, demand forecasting, an
 </p>
 
 <p align="center">
-📫 <b>aryankmr26004@gmail.com</b> &nbsp;|&nbsp; 📱 <b>+91-6209005463</b> &nbsp;|&nbsp; 📍 <b>Bengaluru, Karnataka</b>
+📫 <b>aryankmr26004@gmail.com</b> &nbsp;|&nbsp;  📍 <b>Bengaluru, Karnataka</b>
 </p>
 
 ---

@@ -25,55 +25,6 @@ I build backend services and ML systems that are tested, containerized, and read
 
 <hr>
 
-<h2 id="projects">🏆 Featured Projects</h2>
-
-<!-- TODO: add GitHub and live demo links under each project title -->
-
-### 🕵️ Operation Chakravyuh
-
-Criminal-network intelligence platform that turns FIRs, call detail records, and financial data into a knowledge graph.
-
-- Graph analytics to uncover hidden intermediaries
-- Evidence-grounded AI agent with an Accept/Edit/Reject audit workflow
-- Role-based access with MFA, a Pytest suite, Docker, and GitHub Actions CI/CD
-
-**Stack:** Python · FastAPI · Neo4j · Docker · GitHub Actions
-
-### 🌆 CitySense
-
-Geospatial decision-support platform for 836 Mumbai grid cells, built on satellite data and OpenStreetMap layers.
-
-- Explainable ML pipeline producing 5 interpretable indices, validated against real flood incidents
-- LLM chatbot for natural-language spatial queries
-- Interactive dashboard with 11 map layers and 82 unit tests, deployed on Render and Vercel
-
-**Stack:** Python · FastAPI · Machine Learning · Google Earth Engine · Docker · GitHub Actions
-
-### 📈 CFL Sales Intelligence Dashboard
-
-GenAI-powered sales intelligence platform for demand forecasting and reporting on Cisco sales data.
-
-- Forecasting model across 30 products
-- Llama 3 (Groq API) for natural-language summaries and risk analysis
-- One-click PDF reports, Dockerized with CI/CD
-
-**Stack:** Python · Streamlit · Machine Learning · Groq (Llama 3) · Plotly · Docker · GitHub Actions
-
-<hr>
-
-<h2 id="open-source">🌱 Open Source & Achievements</h2>
-
-**GirlScript Summer of Code 2026 · AI Agent Track Contributor**
-
-- Built and deployed **GeoAnalyst**, a research-type AI agent on the Smartly platform that interprets location-based data to surface spatial patterns and risks and generate data-driven recommendations
-- Contributed to **Developer_Rel_Outreach_Architect** through peer code reviews and pull requests, improving GitHub repository context extraction to pull merged PR IDs and commit messages
-
-**🥈 Runner Up, IoT Exhibition**
-
-- Built a smart blind stick with obstacle detection and real-time alerts using Arduino, ultrasonic sensors, and an ESP8266
-
-<hr>
-
 <h2 id="tools">🛠️ Tools & Skills</h2>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -94,6 +45,8 @@ GenAI-powered sales intelligence platform for demand forecasting and reporting o
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
@@ -108,10 +61,11 @@ GenAI-powered sales intelligence platform for demand forecasting and reporting o
 class About(Me):
     my_tools = {
         "Languages":   {"Python", "SQL", "C"},
-        "Backend":     {"FastAPI", "REST APIs", "SQLAlchemy", "MLflow"},
+        "Backend":     {"FastAPI", "REST APIs", "SQLAlchemy"},
         "ML & Data":   {"scikit-learn", "Pandas", "NumPy", "PyTorch", "Deep Learning", "NLP"},
         "Databases":   {"Neo4j", "MySQL", "MongoDB", "PostgreSQL"},
         "Frontend/BI": {"Streamlit", "Plotly", "Matplotlib", "Power BI", "DAX"},
+        "MLOps":       {"MLflow", "CI/CD for ML", "FastAPI model serving", "Model validation"},
         "Cloud/DevOps": {"AWS", "Docker", "Git/GitHub", "GitHub Actions", "Pytest", "Linux"},
     }
 ```
@@ -125,12 +79,29 @@ class About(Me):
 | **Languages** | Python · SQL · C |
 | **Software Engineering** | OOP & Software Design · REST API Design · Git/GitHub · CI/CD (GitHub Actions) · Docker · Pytest · Code Review · Agile · Technical Documentation |
 | **ML & Data** | scikit-learn · Pandas · NumPy · PyTorch · Machine Learning · Deep Learning · NLP |
+| **MLOps** | MLflow · Docker · GitHub Actions CI/CD · FastAPI model serving · Model validation (Pytest) |
 | **Cloud** | AWS |
-| **Backend & Databases** | FastAPI · MLflow · Neo4j · MySQL · MongoDB · PostgreSQL · SQLAlchemy |
+| **Backend & Databases** | FastAPI · Neo4j · MySQL · MongoDB · PostgreSQL · SQLAlchemy |
 | **Frontend & BI** | Streamlit · Plotly · Matplotlib · Power BI · DAX |
 | **Tools** | Linux · Jupyter · VS Code |
 
 </details>
+
+<hr>
+
+<h2 id="projects">🏆 Featured Projects</h2>
+
+<!-- TODO: add GitHub and live demo links to each project -->
+
+- **🕵️ Operation Chakravyuh**: Criminal-network intelligence platform that turns FIRs, call detail records, and financial data into a knowledge graph.
+- **🌆 CitySense**: Geospatial decision-support platform for 836 Mumbai grid cells, built on satellite data and OpenStreetMap layers.
+- **📈 CFL Sales Intelligence Dashboard**: GenAI-powered sales intelligence platform for demand forecasting and reporting on Cisco sales data.
+
+<hr>
+
+<h2 id="open-source">🌱 Open Source</h2>
+
+- **GirlScript Summer of Code 2026**: AI Agent Track Contributor
 
 <hr>
 

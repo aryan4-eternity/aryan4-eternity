@@ -126,17 +126,28 @@ GenAI-powered sales intelligence platform automating EDA, demand forecasting, an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryan4-eternity/aryan4-eternity/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://streak-stats.demolab.com?user=aryan4-eternity&theme=highcontrast" alt="GitHub streak" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan4-eternity/aryan4-eternity/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/aryan4-eternity/aryan4-eternity/output/pacman-contribution-graph.svg">
+</picture>
 
 <details>
-  <summary><b>More stats</b></summary>
+  <summary><b>More stats (public repos only)</b></summary>
   <br>
-  <img src="https://streak-stats.demolab.com?user=aryan4-eternity&theme=highcontrast" alt="GitHub streak" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan4-eternity/aryan4-eternity/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/aryan4-eternity/aryan4-eternity/output/pacman-contribution-graph.svg">
-  </picture>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=aryan4-eternity&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aryan4-eternity&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
 </details>
 
 <hr>

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi%2C%20I%27m%20Aryan%20Sahu&fontSize=36&fontAlign=50&fontAlignY=45&color=gradient" alt="Hi, I'm Aryan Sahu" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Science+Student;Backend+%26+ML+Systems;Building+Scalable%2C+Production-Oriented+Software" alt="Data Science Student, Backend and ML Systems, Building Scalable Production-Oriented Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Science+Student;Geospatial+%26+ML+Systems;LLM-Powered+Analytics+Tools;Building+Tested%2C+Containerized+Software" alt="Data Science Student, Geospatial and ML Systems, LLM-Powered Analytics Tools, Building Tested Containerized Software" />
   <br><br>
   <img src="https://img.shields.io/badge/CSE%20--%20Data%20Science-BIT%20Bengaluru-blueviolet?style=for-the-badge" alt="CSE - Data Science, BIT Bengaluru" />
   <img src="https://img.shields.io/badge/GPA-8.61%2F10-success?style=for-the-badge" alt="GPA 8.61/10" />
@@ -15,12 +15,14 @@
 
 <h2 id="about">🚀 About</h2>
 
-I build backend services and ML systems that are tested, containerized, and ready to ship.
+I build end-to-end data and ML systems (geospatial risk models, forecasting pipelines, and LLM-powered analytics tools) shipped as tested, containerized apps.
 
-- 🎓 Final-year **B.E. in Computer Science Engineering (Data Science)** at Bangalore Institute of Technology, GPA 8.61/10
-- ⚙️ Focused on **backend APIs, data pipelines, and ML / deep learning components**: REST APIs, SQL and graph databases, Streamlit dashboards
-- 🐳 Ship with **Docker and GitHub Actions CI/CD**, working solo or in agile, cross-functional teams
-- 💬 Ask me about **FastAPI, Neo4j, ML pipelines, or geospatial data**
+- 🎓 Final-year **B.E. in Computer Science Engineering (Data Science)** at Bangalore Institute of Technology, GPA 8.61/10 (expected May 2027)
+- 💼 **AI/ML Intern** at Hoardify Pvt. Ltd. (Jul – Sep 2026)
+- ⚙️ Focused on **ML pipelines, feature engineering, model validation, and backend APIs**: FastAPI, SQL and graph databases, Streamlit dashboards
+- 🤖 Experienced with **LLM apps and agents**: LangChain, Groq (Llama 3), RAG, tool-calling agents
+- 🐳 Ship with **Docker, Pytest, and GitHub Actions CI/CD**
+- 💬 Ask me about **geospatial ML, forecasting, FastAPI, or LLM agents**
 - 📫 **aryankmr26004@gmail.com** · 📍 Bengaluru, Karnataka
 
 <hr>
@@ -37,36 +39,34 @@ I build backend services and ML systems that are tested, containerized, and read
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20(Llama%203)-F55036?style=flat)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=flat)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```python
 # tools_I_use, organized
 
 class About(Me):
     my_tools = {
-        "Languages":   {"Python", "SQL", "C"},
-        "Backend":     {"FastAPI", "REST APIs", "SQLAlchemy"},
-        "ML & Data":   {"scikit-learn", "Pandas", "NumPy", "PyTorch", "Deep Learning", "NLP"},
-        "Databases":   {"Neo4j", "MySQL", "MongoDB", "PostgreSQL"},
-        "Frontend/BI": {"Streamlit", "Plotly", "Matplotlib", "Power BI", "DAX"},
-        "MLOps":       {"MLflow", "CI/CD for ML", "FastAPI model serving", "Model validation"},
-        "Cloud/DevOps": {"AWS", "Docker", "Git/GitHub", "GitHub Actions", "Pytest", "Linux"},
+        "Languages":    {"Python", "SQL", "C"},
+        "ML & Analysis": {"scikit-learn", "Pandas", "NumPy", "EDA", "Feature Engineering",
+                          "Time-Series Forecasting", "Model Validation (AUC/AP)", "Explainable AI", "PyTorch (Basic)"},
+        "Visualization": {"Streamlit", "Plotly", "Matplotlib", "Google Earth Engine"},
+        "Databases & Backend": {"PostgreSQL", "MySQL", "MongoDB", "Neo4j", "SQLAlchemy", "FastAPI", "MLflow"},
+        "LLM & Agents": {"LangChain", "Groq API (Llama 3)", "RAG", "Tool-Calling Agents"},
+        "Engineering & DevOps": {"Git/GitHub", "Docker", "GitHub Actions (CI/CD)", "Pytest", "Linux/Ubuntu", "Jupyter"},
     }
 ```
 
@@ -77,13 +77,11 @@ class About(Me):
 | Category | Skills |
 |---|---|
 | **Languages** | Python · SQL · C |
-| **Software Engineering** | OOP & Software Design · REST API Design · Git/GitHub · CI/CD (GitHub Actions) · Docker · Pytest · Code Review · Agile · Technical Documentation |
-| **ML & Data** | scikit-learn · Pandas · NumPy · PyTorch · Machine Learning · Deep Learning · NLP |
-| **MLOps** | MLflow · Docker · GitHub Actions CI/CD · FastAPI model serving · Model validation (Pytest) |
-| **Cloud** | AWS |
-| **Backend & Databases** | FastAPI · Neo4j · MySQL · MongoDB · PostgreSQL · SQLAlchemy |
-| **Frontend & BI** | Streamlit · Plotly · Matplotlib · Power BI · DAX |
-| **Tools** | Linux · Jupyter · VS Code |
+| **ML & Analysis** | Scikit-Learn · Pandas · NumPy · EDA · Feature Engineering · Time-Series Forecasting · Model Validation (AUC/AP) · Explainable AI · PyTorch (Basic) |
+| **Visualization** | Streamlit · Plotly · Matplotlib · Google Earth Engine |
+| **Databases & Backend** | PostgreSQL · MySQL · MongoDB · Neo4j · SQLAlchemy · FastAPI · MLflow |
+| **LLM & Agents** | LangChain · Groq API (Llama 3) · RAG · Tool-Calling Agents |
+| **Engineering & DevOps** | Git/GitHub · Docker · GitHub Actions (CI/CD) · Pytest · Linux/Ubuntu · Jupyter |
 
 </details>
 
@@ -91,17 +89,23 @@ class About(Me):
 
 <h2 id="projects">🏆 Featured Projects</h2>
 
-<!-- TODO: add GitHub and live demo links to each project -->
+<!-- TODO: add GitHub repo links to each project -->
 
-- **🕵️ Operation Chakravyuh**: Criminal-network intelligence platform that turns FIRs, call detail records, and financial data into a knowledge graph.
-- **🌆 CitySense**: Geospatial decision-support platform for 836 Mumbai grid cells, built on satellite data and OpenStreetMap layers.
-- **📈 CFL Sales Intelligence Dashboard**: GenAI-powered sales intelligence platform for demand forecasting and reporting on Cisco sales data.
+- **🌆 [CitySense](https://city-sense-live.vercel.app/)**: Explainable geospatial ML platform for 836 Mumbai grid cells, fusing Sentinel-2, Landsat-8, SRTM, and CHIRPS satellite data with OpenStreetMap layers to score environmental health, flood risk, and planning priority. Flood-risk outputs validated against real incident data (AUC/AP) and backed by 82 unit tests. *(Python, FastAPI, LangChain, Google Earth Engine, Docker, GitHub Actions)*
+- **🌦️ [GaganNetra](https://gagannetra.vercel.app/)** (Smart India Hackathon 2026, Team JSON 0xFF): Hybrid AI-NWP weather blending pipeline combining 5 physics-based NWP models with ECMWF-AIFS, bias-corrected against ERA5 and blended via superensemble, BMA, and EMOS. Median skill gain over the best single model: 2.6% (temperature) and 8.9% (wind) on a held-out block. Includes IMD-threshold hazard alerts and a Next.js dashboard. *(Python, FastAPI, Next.js, SQLite, Docker, GitHub Actions)*
+- **📈 CFL Sales Intelligence Dashboard**: Demand-forecasting and reporting platform on Cisco sales data across 30 products, with lag, rolling, and YoY features, Llama 3 (Groq) executive summaries via LangChain, and one-click PDF reports. *(Python, Streamlit, LangChain, Plotly, Docker)*
 
 <hr>
 
 <h2 id="open-source">🌱 Open Source</h2>
 
-- **GirlScript Summer of Code 2026**: AI Agent Track Contributor
+- **GirlScript Summer of Code 2026**: AI Agent Track Contributor. Built and deployed **GeoAnalyst**, an AI research agent on the Smartly platform that surfaces spatial patterns and risks from location data, and contributed to peer code reviews and pull requests.
+
+<hr>
+
+<h2 id="achievements">🏅 Achievements</h2>
+
+- **Runner Up, IoT Exhibition**: Smart blind stick with obstacle detection and real-time alerts (Arduino, ESP8266)
 
 <hr>
 
